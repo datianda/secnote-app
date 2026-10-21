@@ -7,7 +7,7 @@
 把你最不想被人看到的文字,锁进一个连大小都不会变化的加密文件里。<br>
 口令是唯一的钥匙;程序全程不联网、不注册账号、明文只在锁定内存里,绝不落盘。
 
-**[⬇ Windows 便携版 · Releases](../../releases/latest)** &nbsp;|&nbsp; **[📱 安卓版 APK](../../releases/tag/android-v0.18.0)** &nbsp;|&nbsp; **[☁ 百度网盘下载](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)**
+**[⬇ Windows 便携版 · Releases](../../releases/tag/v0.17.0)** &nbsp;|&nbsp; **[📱 安卓版 APK](../../releases/tag/android-v0.18.0)** &nbsp;|&nbsp; **[☁ 百度网盘下载](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)**
 
 <img src="assets/sn-home.png" width="900" alt="密记本 · 主界面(浅色主题)">
 
@@ -170,7 +170,7 @@
 ## 🚀 快速上手(约 2 分钟)
 
 **① 下载与运行**<br>
-到 [Releases](../../releases/latest) 或[百度网盘](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)下载便携版,解压,双击 `secnote.exe`。<br>
+到 [Releases](../../releases/tag/v0.17.0) 或[百度网盘](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)下载便携版,解压,双击 `secnote.exe`。<br>
 首次运行若弹「未知发布者 / SmartScreen」,点「更多信息 → 仍要运行」(程序为自签名,尚未购买商用证书,可自行核对 SHA-256)。
 
 **② 新建保险库**<br>
@@ -192,7 +192,7 @@
 
 ## ⬇ 下载
 
-- **GitHub / Gitee Releases**:[最新便携版](../../releases/latest)(Windows,解压双击即用,免安装)。
+- **GitHub / Gitee Releases**:[最新便携版](../../releases/tag/v0.17.0)(Windows,解压双击即用,免安装)。
 - **安卓版**:[secnote-android-0.18.0.apk](../../releases/tag/android-v0.18.0)(安卓 9 及以上)。
   SHA-256:`96bf642f2d2e04f09657c54f463601f9ab0578949fd24bb5c8217a96106eebd1`<br>
   签名证书 SHA-256:`DC:D3:F6:C4:83:AC:60:D9:55:B2:FB:3D:78:EB:5D:E1:A6:3A:BB:C7:DA:38:9E:5F:76:3C:64:58:CF:EA:DA:36` —— 以后的更新都用同一个证书签名,不一致就不是我们发的。
@@ -244,7 +244,7 @@ Get-FileHash .\secnote.exe -Algorithm SHA256
 
 ## 把不想被看到的字,交给密记本
 
-### **[⬇ 前往 Releases 下载](../../releases/latest)** · **[☁ 百度网盘](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)**
+### **[⬇ 前往 Releases 下载](../../releases/tag/v0.17.0)** · **[☁ 百度网盘](https://pan.baidu.com/s/1wew4TdhuaoIUuuAlZmu-IA?pwd=wwsz)**
 
 <sub>© 玩物丧志软件 WANWU LAB · 密记本 secnote 为专有软件,保留一切权利。<br>
 本仓库仅用于分发下载,不含源代码。请勿反编译、破解或二次分发。安卓版内置第三方组件声明(设置 → 关于)。</sub>
